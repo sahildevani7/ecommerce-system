@@ -1,4 +1,8 @@
-COMPLETED
+# E-commerce System
+
+This Java project demonstrates the implementation of obejct oriented programming concepts, including inheritance, interfaces, classes, and Java Collections. An E-commerce system (like Amazon) sells various types of products to registered customers. Customers order a product they like, and the system ships it to them. This system keeps track of all its products, all its registered customers, all current orders and all shipped orders.
+
+## Completed
 
 File I/O and exception handling for 
 reading the products.txt file and 
@@ -17,7 +21,7 @@ Correct use of a map for product
 objects (all array list code properly replaced according to maps)
 
 
-NOT COMPLETED
+## Not Completed
 
 Use of a map to support the
 printing of product order
